@@ -1,7 +1,6 @@
 # component-property-clash
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is where I will reproduce the problem that led me to make [this change](https://github.com/backspace/prison-rideshare-ui/pull/114/commits/8297fde396f38b70c3285d2308801f40bb036b5f).
 
 ## Prerequisites
 
